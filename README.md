@@ -1,0 +1,2 @@
+# go
+go common code
